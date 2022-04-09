@@ -7,4 +7,8 @@ int main()
 	
 	//first comment
 }
-
+class str(){
+	public def(){
+		int roll,age;
+	}
+}
